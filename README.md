@@ -51,10 +51,9 @@ Input Commands :
 ## What to do after installation ? 
 
 You can run the VPN choose input command: 1
-> 
+> Then you need to follow the instructions
 
 ## How to Disconnect ? ?
 
 Choose input command: 2
 
-## Help us to translate the project
